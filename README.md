@@ -1,4 +1,4 @@
-# 🩺 HealthAI — Clinical Intelligence Suite
+# 🩺 Symptomate HealthAI — Clinical Intelligence Suite
 
 An AI-powered healthcare assistant that analyzes **user symptoms + medical reports** to predict possible diseases and provide clinical insights using Machine Learning.
 
