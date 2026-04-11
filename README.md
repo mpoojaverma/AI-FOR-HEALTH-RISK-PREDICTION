@@ -15,6 +15,18 @@ An AI-powered healthcare assistant that analyzes **user symptoms + medical repor
 * AI chatbot-style symptom consultation (Fuzzy extraction and NLP)
 
 ---
+## Preview
+---
+## 🖥️ Preview
+
+<p align="center">
+  <img src="sample outputs/A.png" width="100%">
+  <img src="sample outputs/1.png" width="100%">
+  <img src="sample outputs/2.png" width="100%">
+  <img src="sample outputs/3.png" width="100%">
+  <img src="sample outputs/4.png" width="100%">
+</p>
+---
 
 ## 🧠 Tech Stack
 
@@ -95,13 +107,6 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 cd model
 python train_model.py
 ```
-
-What happens:
-
-* Dataset is converted into **binary symptom vectors**
-* Random Forest model is trained
-* Model and feature columns are saved
-
 ---
 
 ### 5️⃣ Run the Application
@@ -110,17 +115,6 @@ What happens:
 cd app
 python main_app.py
 ```
-
----
-
-### (Optional) Enable Hot Reload
-
-```bash
-python utils/dev_launcher.py
-```
-
-Auto-restarts app on code changes
-
 ---
 
 ## 🧪 How It Works
@@ -139,7 +133,7 @@ Auto-restarts app on code changes
 
 ---
 
-### Step 3: Output (Simple View)
+### Step 3: Output
 
 Example:
 
