@@ -1,5 +1,7 @@
 # 🩺 Symptomate HealthAI — Clinical Intelligence Suite
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+
 An AI-powered healthcare assistant that analyzes **user symptoms + medical reports** to predict possible diseases and provide clinical insights using Machine Learning.
 
 ---
