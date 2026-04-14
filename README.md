@@ -28,7 +28,7 @@ An AI-powered healthcare assistant that analyzes **user symptoms + medical repor
 </p>
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 * **Frontend:** PyQt5 (Desktop UI)
 * **Backend:** Python
@@ -175,7 +175,7 @@ Calculated:
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 * Not a replacement for medical professionals
 * Depends on dataset quality
@@ -183,7 +183,7 @@ Calculated:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Deep learning integration
 * Real-time hospital API integration
@@ -191,8 +191,8 @@ Calculated:
 
 ---
 
-## Disclaimer
+## Disclaimer and Educational Context
 
-This system is for **educational purposes only** and should not be used for real medical diagnosis.
+This system is for **educational purposes only** and should not be used for real medical diagnosis. *Developed as part of Artificial Intelligence coursework.*
 
 ---
