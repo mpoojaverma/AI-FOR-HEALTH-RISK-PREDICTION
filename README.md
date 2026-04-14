@@ -17,8 +17,6 @@ An AI-powered healthcare assistant that analyzes **user symptoms + medical repor
 ---
 ## Preview
 ---
-## 🖥️ Preview
-
 <p align="center">
   <img src="sample outputs/A.png" width="100%">
   <img src="sample outputs/1.png" width="100%">
